@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mallik</h1>
 <h3 align="center">A Python / Django Developer</h3>
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django, Flask, FastAPI, Web Scraping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
